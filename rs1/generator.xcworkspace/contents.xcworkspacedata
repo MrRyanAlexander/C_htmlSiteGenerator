@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:generator.h">
+   </FileRef>
+   <FileRef
+      location = "container:generator.c">
+   </FileRef>
+   <FileRef
+      location = "group:dataGen.h">
+   </FileRef>
+   <FileRef
+      location = "group:dataGen.c">
+   </FileRef>
+   <FileRef
+      location = "group:websiteGen.h">
+   </FileRef>
+   <FileRef
+      location = "group:websiteGen.c">
+   </FileRef>
+   <FileRef
+      location = "group:chat_four_mod_temp.h">
+   </FileRef>
+   <FileRef
+      location = "group:chat_four_mod_temp.c">
+   </FileRef>
+   <FileRef
+      location = "group:four_mod_temp.h">
+   </FileRef>
+   <FileRef
+      location = "group:four_mod_temp.c">
+   </FileRef>
+   <FileRef
+      location = "group:six_mod_temp.h">
+   </FileRef>
+   <FileRef
+      location = "group:six_mod_temp.c">
+   </FileRef>
+</Workspace>
